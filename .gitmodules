@@ -1,0 +1,15 @@
+[submodule "data-access-component"]
+	path = data-access-component
+	url = git@github.com:blindnet-io/data-access-component.git
+[submodule "privacy-components-web"]
+	path = privacy-components-web
+	url = git@github.com:blindnet-io/privacy-components-web.git
+[submodule "blindnet.dev"]
+	path = blindnet.dev
+	url = git@github.com:blindnet-io/blindnet.dev.git
+[submodule "privacy-computation-engine"]
+	path = privacy-computation-engine
+	url = git@github.com:blindnet-io/privacy-computation-engine.git
+[submodule "storage-connector-java"]
+	path = storage-connector-java
+	url = git@github.com:blindnet-io/storage-connector-java.git
