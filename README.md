@@ -24,6 +24,16 @@ Developing such components involves different technologies and approaches, and i
 
 This repository is only here to ease usage and contribution to the blindnet DevKit as a whole.
 
+## Usage
+
+Clone this repository with its submodules:
+
+```bash
+git clone --recurse-submodules git@github.com:blindnet-io/devkit.git
+```
+
+Then, follow the instructions in the "Usage" section of each component's README.
+
 ## Contributing
 
 Contributions of all kinds are always welcome!
